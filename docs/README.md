@@ -52,9 +52,11 @@
 
 ## Publications
 
-1. Tao Yang, Jinwen Hu, You Li, Cheng Zhao, Li Sun, Tomas Krajnik, and Zhi Yan. [3D ToF LiDAR for mobile robotics in harsh environments: A review](https://www.worldscientific.com/doi/abs/10.1142/S230138502530001X). *Unmanned Systems*, April 2024.
+1. Rui Yang, Zhi Yan, Tao Yang, Tomas Krajnik, and Yassine Ruichek. [Preventing catastrophic forgetting in continuous online learning for autonomous driving](). In *Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi ,UAE, October 2024.
 
-2. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, and Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, May 2023.
+2. Tao Yang, Jinwen Hu, You Li, Cheng Zhao, Li Sun, Tomas Krajnik, and Zhi Yan. [3D ToF LiDAR for mobile robotics in harsh environments: A review](https://www.worldscientific.com/doi/abs/10.1142/S230138502530001X). *Unmanned Systems*, April 2024.
+
+3. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, and Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, May 2023.
 
 ## Results
 
