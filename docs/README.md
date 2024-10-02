@@ -46,9 +46,10 @@
 
 ###  CIAD Lab, UTBM
 
-| <a href="https://yzrobot.github.io/"><img src="images/zyan.jpg" width="168"></a> | <a href="https://scholar.google.com/citations?user=j-kP4lkAAAAJ"><img src="images/ryang.jpg" width="168"></a> | <a href="https://scholar.google.com/citations?user=UBmFfS4AAAAJ"><img src="images/okunevich.jpg" width="168"></a> |
-| :-: | :-: | :-: |
-| [Zhi Yan](https://yzrobot.github.io/) (PI)<br>Assistant Professor | [Rui Yang](https://scholar.google.com/citations?user=j-kP4lkAAAAJ) <br>Ph.D. Student | [Iaroslav Okunevich](https://scholar.google.com/citations?user=UBmFfS4AAAAJ) <br>Ph.D. Student |
+| <a href="https://yzrobot.github.io/"><img src="images/zyan.jpg" width="168"></a> | <a href="https://scholar.google.com/citations?user=j-kP4lkAAAAJ"><img src="images/ryang.jpg" width="168"></a> | <a href="https://scholar.google.com/citations?user=UBmFfS4AAAAJ"><img src="images/okunevich.jpg" width="168"></a> | <a href="https://scholar.google.com/citations?user=OxFeRc4AAAAJ"><img src="images/Johnny.jpg" width="168"></a> |
+| :-: | :-: | :-: | :-: |
+| [Zhi Yan](https://yzrobot.github.io/) (PI)<br>Assistant Professor | [Rui Yang](https://scholar.google.com/citations?user=j-kP4lkAAAAJ) <br>Ph.D. Student | [Iaroslav Okunevich](https://scholar.google.com/citations?user=UBmFfS4AAAAJ) <br>Ph.D. Student | [Johnata Brayan](https://scholar.google.com/citations?user=OxFeRc4AAAAJ) <br>Master's student |
+
 
 ## Publications
 
