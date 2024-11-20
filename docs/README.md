@@ -8,6 +8,12 @@
 
 ## News
 
+\[2 Dec 2024\]: The CTU team started to visit the UTBM team!
+
+\[22 Nov 2024\]: The CTU team started to visit the UTBM team!
+
+\[10 Nov 2024\]: The UTBM team started to visit the CTU team!
+
 \[13 Apr 2024\]: The UTBM team started to visit the CTU team!
 
 \[13 Dec 2023\]: Dr. Tomas Krajnik participated in Mr. Rui Yang’s Ph.D. defense as his opponent!
